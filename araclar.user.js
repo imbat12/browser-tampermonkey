@@ -24,7 +24,7 @@ var AYAR={
 // ===== MENU: sira, ikon, ad, is =====
 // Sirayi degistirmek icin satirlarin yerini degistir.
 var SIRA=[
-  ['\u{1F4BE}','Markdown indir 555','mdIndir'],
+  ['\u{1F4BE}','Markdown indir','mdIndir'],
   ['\u{1F4CB}','Markdown kopyala','mdKopya'],
   ['\u{1F4C4}','Metin kopyala','txtKopya'],
     ['\u{1F310}','HTML indir','htmlIndir']
