@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Araclar
 // @namespace    local
-// @version      5.1
+// @version      5.2
 // @description  arac menusu
 // @match        *://*/*
 // @run-at       document-end
@@ -24,10 +24,10 @@ var AYAR={
 // ===== MENU: sira, ikon, ad, is =====
 // Sirayi degistirmek icin satirlarin yerini degistir.
 var SIRA=[
+  ['\u{1F4BE}','Markdown indir','mdIndir'],
   ['\u{1F4CB}','Markdown kopyala','mdKopya'],
   ['\u{1F4C4}','Metin kopyala','txtKopya'],
-  ['\u{1F4BE}','Markdown indir','mdIndir'],
-  ['\u{1F310}','HTML indir','htmlIndir']
+    ['\u{1F310}','HTML indir','htmlIndir']
 ];
 
 // ===== ISLER =====
